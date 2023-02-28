@@ -1,0 +1,14 @@
+name: fair-nw-expansion
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - python=3.9.9
+  - pytorch
+  - ipykernel
+  - autopep8
+  - matplotlib
+  - mlflow
+  - geopandas
+prefix: /Users/dimichai/miniforge3/envs/fair-nw-expansion
